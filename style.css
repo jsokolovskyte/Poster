@@ -1,5 +1,37 @@
+header{
+    background: url(https://media.istockphoto.com/photos/bottles-of-essential-oil-with-rosemary-thyme-cinnamon-sticks-cardamom-picture-id1328673585?k=20&m=1328673585&s=170667a&w=0&h=c9P-ANABGCPVvOFavtelhGQ2oysa6KAh2UNgcX43DDw=);
+    object-fit:cover;
+    background-position: right;
+    opacity: 0.8;
+    height: 26.5vh;
+    box-sizing: border-box;
+    padding: 20px;
+    padding-top: 3px;
+    justify-content: center;
+
+}  
+h2{
+    box-shadow: 2px 3px 5px black;
+    z-index: 1;
+}
+h1{
+    color: rgb(0, 0, 0);
+    font-weight: 900;
+    text-align: center;
+} 
+h3{
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    text-align: center;
+}
+h1 span{
+    box-sizing: border-box;
+    font-style: italic;
+    text-align: center;
+}
 h2{
     text-align: center;
+    background-color: cornflowerblue;
 }
 .introduction {
 display: flex;
@@ -23,6 +55,7 @@ img{
 .Questions{
 display: flex;
 width: 80%;
+padding: 10px;
 margin-left: auto;
 margin-right: auto;
 justify-content: center;
@@ -33,8 +66,8 @@ box-sizing: border-box;
     font-style: italic;
 }
 .Questions img{
-    width: 45%;
-    margin: 20px;
+    width: 48%;
+    margin: 10px;
     box-sizing: border-box;
 }
 
