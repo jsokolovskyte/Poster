@@ -70,6 +70,10 @@ box-sizing: border-box;
     margin: 10px;
     box-sizing: border-box;
 }
+.introduction li{
+    /* line-height: 1.8; */
+    margin-bottom: 10px;
+}
 
 
 
