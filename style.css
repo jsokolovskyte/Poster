@@ -74,6 +74,9 @@ box-sizing: border-box;
     /* line-height: 1.8; */
     margin-bottom: 10px;
 }
+.introduction span{
+    font-style: italic;
+}
 
 
 
